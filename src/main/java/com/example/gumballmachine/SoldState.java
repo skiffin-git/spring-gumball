@@ -1,5 +1,5 @@
 
-package com.example.gumballmachine ;
+package com.example.gumballmachine;
 
 public class SoldState implements State {
  
